@@ -1,0 +1,1 @@
+<aside class='w-64 fixed h-screen bg-white shadow'><div class='p-6 font-bold text-green-600'>Peternakan Munti</div></aside>
